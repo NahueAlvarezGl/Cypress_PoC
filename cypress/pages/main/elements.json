@@ -1,0 +1,12 @@
+{
+    
+    "MenuList": ".sidenav .panel-default",
+    "ListItems": ".sidenav .panel-default .tree-branch",
+    "Board": ".board",
+    "HomebarButton": "#home_bar",
+    "StartPractisingButton": "#btn_basic_example",
+    "BasicButton": "#basic_example",
+    "IntermediateButton": "#inter_example",
+    "AdvancedButton": "#advanced_example",
+    "CompletedButton": "#done_example"
+}

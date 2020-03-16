@@ -1,0 +1,16 @@
+{
+    "Title": "#basic .head",
+    "SimpleFormDemo": "#basic a[href='./basic-first-form-demo.html']",
+    "CheckBoxDemo": "#basic a[href='./basic-checkbox-demo.html']",
+    "RadioButtonsDemo": "#basic a[href='./basic-radiobutton-demo.html']",
+    "SelectDropdownList": "#basic a[href='./basic-select-dropdown-demo.html']",
+    "JavascriptAlerts": "#basic a[href='./basic-first-form-demo.html']",
+    "WindowPopupModal": "#basic a[href='./basic-first-form-demo.html']",
+    "ProceedNextButton": "#btn_inter_example",
+    "EnterMessageInput": "#get-input .form-control",
+    "ShowMessageButton": "#get-input button",
+    "UserMessage": "#user-message #display",
+    "Checkbox": "#isAgeSelected",
+    "Checkboxes": ".cb1-element",
+    "CheckboxMessage": "#txtAge"
+}

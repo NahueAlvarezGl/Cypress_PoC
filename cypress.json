@@ -1,0 +1,20 @@
+{
+    "baseUrl" : "https://www.seleniumeasy.com/test/",
+    "blacksmith2Url": "https://s3.amazonaws.com/everfi-curriculums/curriculums/blacksmith2/develop/index.html#",
+    "inputUrl": "https://s3.amazonaws.com/everfi-curriculums/curriculums/blacksmith2/develop/index.html#documentation/documentation-activity/input-doc",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "reporterEnabled": "mochawesome",
+        "mochawesomeReporterOptions": {
+            "reportDir": "cypress/reports/mocha",
+            "quite": true,
+            "overwrite": false,
+            "html": false,
+            "json": true
+        }
+    },
+    "viewportWidth": 1400,
+    "viewportHeight": 1200,
+    "defaultCommandTimeout": 4000,
+    "pageLoadTimeout": 60000
+}
