@@ -2,3 +2,6 @@ node_modules
 package-lock.json
 videos
 *.log
+./allure-report
+./allure-results
+./results
