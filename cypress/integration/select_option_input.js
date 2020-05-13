@@ -1,13 +1,12 @@
-import mainPageElements from '../pages/main/mainPageElements.json'
 import inputElements from "../pages/main/inputElements.json"
 
-describe('Select Option Input tests', () => {
+xdescribe('Select Option Input tests', () => {
 
     beforeEach(() => {
         // runs before each test in this block
         cy.visit(Cypress.config().blacksmith2Url)
         cy.goToDocumentationPage()
-        cy.get(mainPageElements.componentsList, {timeout: 60000}).contains('Input').click()
+        cy.goToInputPage()
         cy.url().should('include', 'input-doc')
       });
 

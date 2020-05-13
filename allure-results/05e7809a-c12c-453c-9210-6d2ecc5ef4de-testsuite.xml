@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1588260560910' stop='1588260560974'>
+    <name>Select Option Input tests</name>
+    <title>Select Option Input tests</title>
+    <test-cases>
+        <test-case start='1588260560961' status='pending' stop='1588260560961'>
+            <name>by default on viewing the select option element the user sees the default option selected</name>
+            <title>by default on viewing the select option element the user sees the default option selected</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1588260560962' status='undefined'>
+            <name>by default on viewing the select option element the user sees the default option selected</name>
+            <title>by default on viewing the select option element the user sees the default option selected</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1588260560968' status='pending' stop='1588260560968'>
+            <name>while the component is in its expanded state user can choose an option from the list by clicking on it</name>
+            <title>while the component is in its expanded state user can choose an option from the list by clicking on it</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1588260560968' status='undefined'>
+            <name>while the component is in its expanded state user can choose an option from the list by clicking on it</name>
+            <title>while the component is in its expanded state user can choose an option from the list by clicking on it</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

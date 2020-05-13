@@ -1,0 +1,81 @@
+[ {
+  "uid" : "bf9a197ae021d053",
+  "name" : "Type right - Clicking the component button will add a drawer at the top of the browser window",
+  "time" : {
+    "start" : 1588105497170,
+    "stop" : 1588105555192,
+    "duration" : 58022
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c33232d33ae52f27",
+  "name" : "Type left - Clicking the component button will add a drawer at the top of the browser window",
+  "time" : {
+    "start" : 1588105440309,
+    "stop" : 1588105497162,
+    "duration" : 56853
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f274445dc582bdbc",
+  "name" : "Type bottom - Clicking the component button will add a drawer at the top of the browser window",
+  "time" : {
+    "start" : 1588105382806,
+    "stop" : 1588105440282,
+    "duration" : 57476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "633a1b6301138a04",
+  "name" : "the user is able to select an \"active\" radio button",
+  "time" : {
+    "start" : 1588105316126,
+    "stop" : 0,
+    "duration" : -1588105316126
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "a160f741703969bf",
+  "name" : "while the component is in its expanded state user can choose an option from the list by clicking on it",
+  "time" : {
+    "start" : 1588105589542,
+    "stop" : 1588105589542,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b0b9aceee1361c8f",
+  "name" : "by default on viewing the select option element the user sees the default option selected",
+  "time" : {
+    "start" : 1588105589540,
+    "stop" : 0,
+    "duration" : -1588105589540
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "a83eebaf23a48ece",
+  "name" : "user is able to select a radio button and get its corresponding response feedback message",
+  "time" : {
+    "start" : 1588105316127,
+    "stop" : 0,
+    "duration" : -1588105316127
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "bf7065a4fcc3b93a",
+  "name" : "Type top - Clicking the component button will add a drawer at the top of the browser window",
+  "time" : {
+    "start" : 1588105319799,
+    "stop" : 1588105382751,
+    "duration" : 62952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

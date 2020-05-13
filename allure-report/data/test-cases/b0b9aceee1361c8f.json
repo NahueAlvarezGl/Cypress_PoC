@@ -1,0 +1,55 @@
+{
+  "uid" : "b0b9aceee1361c8f",
+  "name" : "by default on viewing the select option element the user sees the default option selected",
+  "fullName" : "Select Option Input tests.by default on viewing the select option element the user sees the default option selected",
+  "historyId" : "92711a92c50cc5a14c44fe367526e9f2",
+  "time" : {
+    "start" : 1588105589540,
+    "stop" : 0,
+    "duration" : -1588105589540
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Select Option Input tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Select Option Input tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "by default on viewing the select option element the user sees the default option selected"
+  }, {
+    "name" : "package",
+    "value" : "Select Option Input tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "34a2ea2f28121e67",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1588105589539,
+        "stop" : 1588105589539,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0b9aceee1361c8f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "633a1b6301138a04",
+  "name" : "the user is able to select an \"active\" radio button",
+  "fullName" : "Assesment Block tests.the user is able to select an \"active\" radio button",
+  "historyId" : "88d3b1e82c5800657106b2075fb55468",
+  "time" : {
+    "start" : 1588105316126,
+    "stop" : 0,
+    "duration" : -1588105316126
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assesment Block tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Assesment Block tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "the user is able to select an \"active\" radio button"
+  }, {
+    "name" : "package",
+    "value" : "Assesment Block tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5e323074b9192f50",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1588105316125,
+        "stop" : 1588105316125,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "633a1b6301138a04.json",
+  "parameterValues" : [ ]
+}

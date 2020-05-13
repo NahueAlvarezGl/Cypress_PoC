@@ -1,0 +1,4 @@
+{
+    "accordionContainer": ".block-list .accordion",
+    "accordionNodes":".block-list .accordion .bellow__button__vertical"
+}

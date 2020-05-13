@@ -16,21 +16,21 @@
  * @type {Cypress.PluginConfig}
  */
 
-const fs = require('fs-extra')
-const path = require('path')
+// const fs = require('fs-extra')
+// const path = require('path')
 
-const getFile = async () => {
-  const pathToElementFile = path.resolve(`cypress/pages/main/elements.json`)
-  return pathToElementFile;
+// const getFile = async () => {
+//   const pathToElementFile = path.resolve(`cypress/pages/main/elements.json`)
+//   return pathToElementFile;
 
-}
-const getElementsByFile = async () => {
-  file = await getFile();
-  return fs.readJson(file);
+// }
+// const getElementsByFile = async () => {
+//   file = await getFile();
+//   return fs.readJson(file);
 
-}
+// }
 
  module.exports = (on, config) => {
-   return getElementsByFile();
  }
 
+require('@applitools/eyes-cypress')(module);

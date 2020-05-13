@@ -1,0 +1,41 @@
+<testsuite name="Mocha Tests" tests="1" failures="0" errors="3" skipped="-2" timestamp="Tue, 28 Apr 2020 18:30:52 GMT" time="1.98">
+<testcase classname="" name="An uncaught error was detected outside of a test" time="0"><failure>Cannot destructure property &#x27;EVENT_TEST_BEGIN&#x27; of &#x27;Mocha.Runner.constants&#x27; as it is undefined.
+
+This error originated from your test code, not from Cypress.
+
+When Cypress detects uncaught errors originating from your test code it will automatically fail the current test.
+
+Cypress could not associate this error to any specific test.
+
+We dynamically generated a new test to display this failure.
+Uncaught TypeError: Cannot destructure property &#x27;EVENT_TEST_BEGIN&#x27; of &#x27;Mocha.Runner.constants&#x27; as it is undefined.
+
+This error originated from your test code, not from Cypress.
+
+When Cypress detects uncaught errors originating from your test code it will automatically fail the current test.
+
+Cypress could not associate this error to any specific test.
+
+We dynamically generated a new test to display this failure.
+    at Object.53../afterHook (https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:2379:5)
+    at o (https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:1:265)
+    at https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:1:316
+    at Object.3../commands (https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:40:1)
+    at o (https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:1:265)
+    at r (https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:1:431)
+    at https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:1:460</failure></testcase>
+<testcase classname="" name="&#x22;after each&#x22; hook for &#x22;An uncaught error was detected outside of a test&#x22;" time="0.383"><failure>Cannot read property &#x27;reporter&#x27; of undefined
+
+Because this error occurred during a &#x27;after each&#x27; hook we are skipping all of the remaining tests.
+TypeError: Cannot read property &#x27;reporter&#x27; of undefined
+
+Because this error occurred during a &#x27;after each&#x27; hook we are skipping all of the remaining tests.
+    at Context.&#x3C;anonymous&#x3E; (https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:2198:24)</failure></testcase>
+<testcase classname="" name="&#x22;after all&#x22; hook for &#x22;An uncaught error was detected outside of a test&#x22;" time="0.383"><failure>Cannot read property &#x27;reporter&#x27; of undefined
+
+Because this error occurred during a &#x27;after all&#x27; hook we are skipping all of the remaining tests.
+TypeError: Cannot read property &#x27;reporter&#x27; of undefined
+
+Because this error occurred during a &#x27;after all&#x27; hook we are skipping all of the remaining tests.
+    at Context.&#x3C;anonymous&#x3E; (https://www.seleniumeasy.com/__cypress/tests?p=cypress/support/index.js-215:2205:54)</failure></testcase>
+</testsuite>

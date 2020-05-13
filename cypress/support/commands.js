@@ -1,15 +1,7 @@
 import 'cypress-file-upload';
-import elements from '../pages/main/elements'
 import mainPageElements from '../pages/main/mainPageElements'
 
-Cypress.Commands.add("goToBasicExample", () => {
-    cy.get(elements.HomebarButton).click()
-    cy.get(elements.StartPractisingButton).click()
-})
-
-Cypress.Commands.add("goToDocumentationPage", () => {
-    cy.get(mainPageElements.documentationLink).click() 
-})
+// This command was only for example purposes
 
 Cypress.Commands.add("goToInputPage", () => {
     cy.visit(Cypress.config().inputUrl)
@@ -18,3 +10,11 @@ Cypress.Commands.add("goToInputPage", () => {
 Cypress.Commands.add("text", { prevSubject: true}, (subject, options) => {
     return subject.text();
   });
+
+Cypress.Commands.add("goToInputPage", () => {
+    cy.get(mainPageElements.componentsList, {timeout: 60000}).contains('Input').click()
+})
+
+Cypress.Commands.add("goToAssessmentBlock", () => {
+    cy.get(mainPageElements.componentsList, {timeout: 60000}).contains('Assessment').click()
+})

@@ -1,0 +1,8 @@
+{
+    "assesmentQuestionsSection": ".assessment-question",
+    "correctAnswerRadioButtonWrapper": "#D+label",
+    "correctAnswerRadioButton": "#D",
+    "incorrectAnswerRadioButton": "#C",
+    "feedbackAnswerMessage": ".assessment-feedback h4",
+    "feedbackMessageContainer": ".feedback__blocks"
+}

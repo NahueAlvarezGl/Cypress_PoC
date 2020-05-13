@@ -1,14 +1,21 @@
-import elements from '../pages/main/elements'
-
 describe('My First Test', function() {
-    it('Visit the documentation page', function() {
-        
-        cy.visit('https://s3.amazonaws.com/everfi-curriculums/curriculums/blacksmith2/develop/index.html#')
-
-        cy.get('#module-documentation').click()
-
-        cy.url().should('include', '#documentation')
-
+    it('Does not do much!', function() {
+      expect(true).to.equal(true)
     })
   })
-
+   
+  describe('My second test', function() {
+    it('Gets, types and asserts', function() {
+      cy.visit('https://example.cypress.io')
+   
+      cy.contains('type').click()
+   
+      // Should be on a new URL which includes '/commands/actions'
+      cy.url().should('include', '/commands/actions')
+   
+      // Get an input, type into it and verify that the value has been updated
+      cy.get('.action-email')
+        .type('fake@email.com')
+        .should('have.value', 'fake@email.comx') // error added on the test itself just to make it fail
+    })
+  })

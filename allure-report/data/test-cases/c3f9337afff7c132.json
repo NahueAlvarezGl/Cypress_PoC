@@ -1,0 +1,46 @@
+{
+  "uid" : "c3f9337afff7c132",
+  "name" : "user is able to select a radio button and get its corresponding response feedback message",
+  "fullName" : "Assesment Block tests.user is able to select a radio button and get its corresponding response feedback message",
+  "historyId" : "d3f7e71bd77e25777abde309c0907b94",
+  "time" : {
+    "start" : 1588105316126,
+    "stop" : 1588105316126,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Assesment Block tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Assesment Block tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "user is able to select a radio button and get its corresponding response feedback message"
+  }, {
+    "name" : "package",
+    "value" : "Assesment Block tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3f9337afff7c132.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,5 @@
+{
+    "sendButton": ".embedded-survey .btn-primary",
+    "answersFirstGroup": ".qs-embedded-survey__group-0 input",
+    "answersSecondGroup": ".qs-embedded-survey__group-1 input"
+}

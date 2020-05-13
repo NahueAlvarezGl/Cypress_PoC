@@ -1,0 +1,46 @@
+{
+  "uid" : "bf9a197ae021d053",
+  "name" : "Type right - Clicking the component button will add a drawer at the top of the browser window",
+  "fullName" : "Drawer Component tests.Type right - Clicking the component button will add a drawer at the top of the browser window",
+  "historyId" : "f5bfda6d8eab132c9aeaf2d81299451a",
+  "time" : {
+    "start" : 1588105497170,
+    "stop" : 1588105555192,
+    "duration" : 58022
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Drawer Component tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Drawer Component tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Type right - Clicking the component button will add a drawer at the top of the browser window"
+  }, {
+    "name" : "package",
+    "value" : "Drawer Component tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf9a197ae021d053.json",
+  "parameterValues" : [ ]
+}

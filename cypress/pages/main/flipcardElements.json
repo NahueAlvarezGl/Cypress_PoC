@@ -1,0 +1,4 @@
+{
+    "flipcards": "div.flipcard .front-card",
+    "flipButton": "div.flipcard .items"
+}

@@ -1,8 +1,0 @@
-{
-    "TablePagination": ".list-group a[href='./table-pagination-demo.html']",
-    "Table": ".table-responsive",
-    "TableRows": "#myTable tr[style='display: table-row;']",
-    "NavigationButtons": ".page_link",
-    "NextPaginationButton": ".next_link",
-    "PreviousPaginationButton": ".prev_link"
-}
